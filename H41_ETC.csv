@@ -1,5 +1,6 @@
+# version = X, Request ID = Y
 # HAT-P-41, Vmag = 11.4, exptime = 190s, Teff = 6500K
-# wavelength,readnoise,dark_counts,sky_counts,target_counts,total_counts
+wavelength,readnoise,dark_counts,sky_counts,target_counts,total_counts
 1850.0000,45,2.09,97.077,0,99.167
 1864.0000,45,2.09,97.077,0,99.167
 1878.0000,45,2.09,97.077,0,99.167
