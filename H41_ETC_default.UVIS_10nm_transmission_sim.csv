@@ -1,7 +1,7 @@
 # UVIS G280 Simulation, broadband = 200.0-800.0nm, spectroscopic in 10.0nm bins
 # Credit: H.R. Wakeford, Citation: Wakeford et al. (2020, AJ)
 # H41_ETC_default with an exposure time of 190 and 2 orbits in transit/eclipse for 2 transits/eclipses
-Wavelength (nm), bin size (nm), transit/eclipse precision (ppm), program precision (ppm)
+# Wavelength (nm), bin size (nm), transit/eclipse precision (ppm), program precision (ppm)
        500, 300.00000,  37.94149,  26.82869
        205,   5.08475, 939.67081, 664.44760
        215,   5.08475, 478.54751, 338.38419

@@ -62,7 +62,6 @@ def transit_depth_precision(wavelength, spectrum, wav_range, exptransit):
 
 
 def header(i, wl, binlen, file_name, exposure_time, orbits_in_transit, no_of_transits):
-    print(i, wl, binlen, file_name, exposure_time, orbits_in_transit, no_of_transits)
     return (
         f"UVIS G280 Simulation, broadband = {wl[0]/10}-{wl[1]/10}nm, spectroscopic in {binlen/10}nm bins"
         "\nCredit: H.R. Wakeford, Citation: Wakeford et al. (2020, AJ)"
